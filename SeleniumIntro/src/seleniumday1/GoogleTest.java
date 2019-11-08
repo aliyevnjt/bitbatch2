@@ -37,6 +37,7 @@ public class GoogleTest {
 		
 
 		// comment: Nijat
+		// changes in test
 
 		
 	}
