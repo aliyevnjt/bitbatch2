@@ -35,6 +35,8 @@ public class GoogleTest {
 		Thread.sleep(2000);
 		//driver.close();
 		
+		// comment: Nijat
+		
 	}
 	
 	public static long toLong(String str) {
