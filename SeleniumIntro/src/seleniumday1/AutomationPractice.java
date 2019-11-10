@@ -34,6 +34,7 @@ public class AutomationPractice {
 		System.out.println(counter);
 		//BREAK UNTIL 9.26 AM
 		// Nijat
+		//Cavid
 		//driver.close();
 	}
 }
