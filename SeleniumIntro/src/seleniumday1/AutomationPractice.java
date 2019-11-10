@@ -33,7 +33,7 @@ public class AutomationPractice {
 		String counter = driver.findElement(By.cssSelector(".heading-counter")).getText();
 		System.out.println(counter);
 		//BREAK UNTIL 9.26 AM
-		
+		// Nijat
 		//driver.close();
 	}
 }
