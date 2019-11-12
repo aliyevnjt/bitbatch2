@@ -39,5 +39,5 @@ public class AmazonTest {
 			System.out.println("This price is too high.");
 		return p;
 	}
-// I add this text to Test GIT
+// Hello I'm testing the git
 }
