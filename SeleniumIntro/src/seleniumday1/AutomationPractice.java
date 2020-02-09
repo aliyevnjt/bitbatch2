@@ -25,14 +25,7 @@ public class AutomationPractice {
 	public static void main(String[] args) throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver", "/Users/bostonivytech/Documents/chromefolde/qwe/chromedriver");
         WebDriver driver =  new ChromeDriver();
-        driver.navigate().to("https://the-internet.herokuapp.com/drag_and_drop");
-        WebElement el = driver.findElement(By.id("column-a"));
-        WebElement el1 = driver.findElement(By.id("column-b"));
-        Actions builder = new Actions(driver);
-        builder.keyDown(Keys.CONTROL)
-        .click(el)
-        .click(el1)
-        .keyUp(Keys.CONTROL).build().perform();;
+       
 
 		
 	}
